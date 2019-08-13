@@ -1,6 +1,7 @@
 # ListadoPersonas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+Este proyecto realmente comenzo el 10-08-2019 y fue subido 3 dias despues. Estará en constante desarrollo hasta que sea finalizado.(Estimo 7 dias para que esté completo)
 
 ## Development server
 
